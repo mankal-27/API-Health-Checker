@@ -1,0 +1,21 @@
+{
+  "name": "api-health-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api_health_checke.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mankal-27/API-Health-Checker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mankal-27/API-Health-Checker/issues"
+  },
+  "homepage": "https://github.com/mankal-27/API-Health-Checker#readme"
+}
