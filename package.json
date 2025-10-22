@@ -2,7 +2,7 @@
   "name": "api-health-checker",
   "version": "1.0.0",
   "description": "",
-  "main": "api_health_checke.js",
+  "main": "Node-Module-Concepts/api_health_checke.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
